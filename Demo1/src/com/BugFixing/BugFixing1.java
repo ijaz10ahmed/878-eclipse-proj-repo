@@ -30,4 +30,4 @@ public class BugFixing1 {
 	    	System.out.println(new BugFixing1().solution("yellow"));
 	    }
 	}
-///
+////
