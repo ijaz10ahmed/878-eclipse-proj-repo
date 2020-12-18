@@ -27,7 +27,7 @@ public class BugFixing1 {
 	    	System.out.println(new BugFixing1().solution("parameter"));
 	    	System.out.println(new BugFixing1().solution("assisstant"));
 	    	System.out.println(new BugFixing1().solution("committee"));
-	    	
+	    	System.out.println(new BugFixing1().solution("yellow"));
 	    }
 	}
 ///
