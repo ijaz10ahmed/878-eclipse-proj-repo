@@ -22,6 +22,6 @@ public class BugFixing2 {
 			int[] B = {};
 			System.out.println(new BugFixing2().solution(A, B));
 		}
-		
+		//
 	}
 //
