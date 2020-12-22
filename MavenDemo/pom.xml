@@ -6,7 +6,7 @@
   
   <dependencies>
   
-	  <!-- https://mvnrepository.com/artifact/com.itextpdf/itextpdf -->
+	  <!-- https://mvnrepository.com/artifact/com.itextpdf/itextpdf /-->
 		<dependency>
 		    <groupId>com.itextpdf</groupId>
 		    <artifactId>itextpdf</artifactId>
